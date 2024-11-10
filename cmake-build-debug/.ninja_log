@@ -1,0 +1,6 @@
+# ninja log v6
+39	12757	7529855375496246	CMakeFiles/Genetic_Algorithm.dir/main.cpp.obj	3bb503bca5866a91
+19	6501	7529856307096490	CMakeFiles/Genetic_Algorithm.dir/GeneticAlgorithm/GeneticAlgorithm.cpp.obj	b57444f83397b198
+184	6681	7529856308740407	CMakeFiles/Genetic_Algorithm.dir/Chromosome/Chromosome.cpp.obj	73a61bd818729c72
+367	7584	7529856310579295	CMakeFiles/Genetic_Algorithm.dir/Utilities/StaticData.cpp.obj	d1ffb4cf39552277
+7584	10383	7529856382750243	Genetic_Algorithm.exe	dc7f4bdf537b6788
